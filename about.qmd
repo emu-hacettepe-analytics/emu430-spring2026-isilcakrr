@@ -5,27 +5,36 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 2023 - ongoing.
--   Erasmus+ Exchange, Technical University of Liberec, 09/2024-02/2025
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, Sept 2023 - ongoing.
+-   Erasmus+ Exchange, Business Administration, Technical University of Liberec, Czechia, Sept 2024 - Feb 2025.
+-   B.S., Industrial Engineering, Ankara Yıldırım Beyazıt University, Turkey, Sept 2022 - June 2023.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  **Volunteered Intern**, Andasis Elektronik Sanayi Ticaret A.Ş., Dec 2025 - Feb 2026.
+2.  **Project Intern**, Başkent Elektrik Dağıtım A.Ş., Jul 2025 - Aug 2025.
+3.  **Project Quality Management Intern**, BAYKAR Makina San. ve Tic. A.Ş., Jun 2025 - Jul 2025.
+4.  **Volunteered Intern**, Ministry of Transport and Infrastructure, General Directorate of Maritime, Aug 2024 - Sept 2024.
 
-2.  Firm bbb, position yyy, year yyy
+## Volunteering & Memberships
 
-# Projects
+1.  **Graphic Designer**, Hacettepe University Kristal Geyik Ödülleri, Mar 2024 - Jun 2024.
+2.  **Co-Chairwoman of Media and Design Unit**, Hacettepe Endüstri ve Sistem Topluluğu, Dec 2023 - Oct 2024.
+3.  **Trainee**, YETGEN - Yetkin Gençler, Feb 2024 - May 2024.
+
+# Projects & Achievements
+
+-   **Case Crackers With ASELSAN (3rd Place)**: Organized by Hacettepe Industry and Systems Society, Apr 2024.
+-   **Savunma Sanayii 401**: Certification in defense project management, Jan 2026.
+-   **Entrepreneurial Skills Pass**: "Patentable Product Award" by Destek Patent, JA Alumni Europe, 2023.
+-   Graduation Project: Capacitated Vehicle Routing Problem with Simultaneous Pick-up and Delivery, in coordination with United Parsel Service ( UPS)
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, LaTeX, MS Office, AutoCAD, Adobe Photoshop, Minitab, SQL, Arena Simulation, Canva.
 
 # Hobbies
+
+Painting, Swimming, Gaming, Chess, Baking.
