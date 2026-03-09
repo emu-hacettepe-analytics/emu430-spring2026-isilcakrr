@@ -49,7 +49,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.",
+    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.\n\n\n\n\n\nTo generate the detailed notes and summary from the video, I used an AI assistant. Below is the exact prompt I used to guide the AI’s analysis:\n\nPrompt Used: “Create a set of detailed, organized notes that capture every single concept, term, example, and insight mentioned, in the exact order they appear, without omitting anything. Instructions: Watch/Read Everything Fully: Do not skip or summarize too broadly. Include all points, even if they seem minor or repetitive, unless they are literal filler or unrelated chatter. Time-Stamped Structure: Add timestamps (HH:MM:SS) before each section or key point so I can quickly revisit the exact spot in the video. Hierarchical Breakdown: Use a clear outline with headings and bullet points: H1: Major topics or sections H2: Subtopics Bullets: Key details, definitions, examples, quotes, code snippets, or formulas. Definitions & Jargon: Whenever a technical term or acronym is mentioned, explain it clearly in simple terms alongside its definition. Examples & Analogies: Record every example, analogy, or metaphor given, and note why the speaker used it. Important Quotes: If the speaker says something notable, write it verbatim inside quotes. Diagrams & Visual References: If the video shows any diagrams, slides, or visuals, describe them in text so I can recreate them later. Extra Resources Mentioned: List any books, papers, tools, or websites the speaker references. Summary Section at the End: After the detailed notes, add: A 1-paragraph high-level summary of the video, A Key Takeaways list with the top 10–15 insights, A Glossary of all technical terms from the video. Then, prepare one open-ended question and one multiple-choice question, along with their answers.”",
     "crumbs": [
       "Assignment 1"
     ]
@@ -70,5 +70,235 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-1.html#ai-usage-methodology",
+    "href": "assignments/assignment-1.html#ai-usage-methodology",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "To generate the detailed notes and summary from the video, I used an AI assistant. Below is the exact prompt I used to guide the AI’s analysis:\n\nPrompt Used: “Create a set of detailed, organized notes that capture every single concept, term, example, and insight mentioned, in the exact order they appear, without omitting anything. Instructions: Watch/Read Everything Fully: Do not skip or summarize too broadly. Include all points, even if they seem minor or repetitive, unless they are literal filler or unrelated chatter. Time-Stamped Structure: Add timestamps (HH:MM:SS) before each section or key point so I can quickly revisit the exact spot in the video. Hierarchical Breakdown: Use a clear outline with headings and bullet points: H1: Major topics or sections H2: Subtopics Bullets: Key details, definitions, examples, quotes, code snippets, or formulas. Definitions & Jargon: Whenever a technical term or acronym is mentioned, explain it clearly in simple terms alongside its definition. Examples & Analogies: Record every example, analogy, or metaphor given, and note why the speaker used it. Important Quotes: If the speaker says something notable, write it verbatim inside quotes. Diagrams & Visual References: If the video shows any diagrams, slides, or visuals, describe them in text so I can recreate them later. Extra Resources Mentioned: List any books, papers, tools, or websites the speaker references. Summary Section at the End: After the detailed notes, add: A 1-paragraph high-level summary of the video, A Key Takeaways list with the top 10–15 insights, A Glossary of all technical terms from the video. Then, prepare one open-ended question and one multiple-choice question, along with their answers.”",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#meet-the-speaker-cem-vardar",
+    "href": "assignments/assignment-1.html#meet-the-speaker-cem-vardar",
+    "title": "Assignment 1",
+    "section": "Meet the Speaker: Cem Vardar",
+    "text": "Meet the Speaker: Cem Vardar\n\nCem Vardar is an Industrial Engineer (IE) who completed his undergraduate, master’s, and PhD (at Arizona State University) in Industrial Engineering.\nHe has over 20 years of professional experience in the US, working in roles that heavily utilized IE and data analytics.\n\nCareer Timeline: * Intel (7 years): Started as an intern, transitioned to full-time. Worked on planning systems and supply chain projects for chip manufacturing. * Revionics (5 years): A startup that built pricing software for major US supermarket chains and retail clothing stores. * Carvana (6 years): Joined when it was a startup (selling cars online) and witnessed massive growth. He took on various IE roles that heavily merged with data analytics and data science.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#the-definition-of-engineering",
+    "href": "assignments/assignment-1.html#the-definition-of-engineering",
+    "title": "Assignment 1",
+    "section": "The Definition of Engineering",
+    "text": "The Definition of Engineering\n\nEngineering fundamentally involves applying science and mathematics to solve problems.\nAnalogy (The Plumber and the Carpenter): Vardar compares engineers to plumbers or carpenters. When a pipe bursts, a plumber uses their specialized tools and apprenticeship knowledge to solve the problem. Similarly, engineers use science and math as their “tools” to solve problems (e.g., building a bridge to solve the problem of crossing two continents).\nEven improving an existing system that isn’t completely broken is a form of problem-solving.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#the-scope-of-industrial-engineering",
+    "href": "assignments/assignment-1.html#the-scope-of-industrial-engineering",
+    "title": "Assignment 1",
+    "section": "The Scope of Industrial Engineering",
+    "text": "The Scope of Industrial Engineering\n\nTools of IE: Operations Research (OR), simulation, quality modeling, supply chain management, and inventory models.\nCore Focus: IEs focus on complex organizations or business systems rather than purely physical systems (like the gears of a machine a mechanical engineer might work on).\nDefinition - Complex Systems: Systems where the whole is different from the sum of its parts. E.g., A car manufacturer includes finance, design, factories, logistics, and marketing. Each sub-system interacts dynamically with the others.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#evolutionary-design-in-complex-systems",
+    "href": "assignments/assignment-1.html#evolutionary-design-in-complex-systems",
+    "title": "Assignment 1",
+    "section": "Evolutionary Design in Complex Systems",
+    "text": "Evolutionary Design in Complex Systems\n\nVardar advocates for simple solutions over complex ones, even in complex systems.\nAnalogy (Evolution of the Brain): Designing a system from scratch to be highly complex usually fails. Instead, systems should evolve like the human brain did—starting from a single cell and adapting to environmental pressures over billions of years.\nImportant Quote: “You must start simple even when complex solutions are required… Evolutionary Design.”",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#qa-if-it-works-dont-touch-it",
+    "href": "assignments/assignment-1.html#qa-if-it-works-dont-touch-it",
+    "title": "Assignment 1",
+    "section": "Q&A: “If it works, don’t touch it”",
+    "text": "Q&A: “If it works, don’t touch it”\n\nA student asks about the famous programming rule: “If it works, don’t touch it.”\nVardar agrees this is a good rule of thumb for complex systems because emergent behaviors are hard to predict. However, if a system is causing problems, you must intervene.\nApproach: Instead of throwing away an old system entirely to build a “perfect” new one over a year, you should make humble, gradual interventions to solve specific bottlenecks.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#data-science-as-a-tool",
+    "href": "assignments/assignment-1.html#data-science-as-a-tool",
+    "title": "Assignment 1",
+    "section": "Data Science as a Tool",
+    "text": "Data Science as a Tool\n\nData science and analytics are simply modern “tools” (like a hammer) used to solve business problems.\nJob titles have evolved to ask for “someone who can use a hammer” (Data Scientist) rather than “a carpenter” (Problem Solver).",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#categorizing-data-science-roles",
+    "href": "assignments/assignment-1.html#categorizing-data-science-roles",
+    "title": "Assignment 1",
+    "section": "Categorizing Data Science Roles",
+    "text": "Categorizing Data Science Roles\n\nGeneralist Data Scientist / Data Analyst: * Tasks: Analyzing sales trends, visualizing data, summarizing, reporting, and building dashboards.\n\nGoal: Turning vast amounts of inaccessible data into actionable information for decision-makers.\nAnalogy (Airplane Autopilot): Just as a dashboard tells a pilot if the plane is drifting off course so they can correct it, business dashboards tell managers if sales or customer satisfaction are dropping so they can steer the company.\n\nPredictive Modeling / Statistician:\n\nTasks: Price optimization, calculating price elasticity, credit scoring.\nUses: Logistic regression, Neural Nets, Support Vector Machines (SVM). Requires deep mathematical/statistical background (often Masters/PhD).\n\nMachine Learning (ML) Scientist / Engineer:\n\nTasks: Image processing, self-driving cars, ChatGPT, deep fakes. Highly specialized.\n\nOperations Research (OR) Data Scientist:\n\nTasks: Logistics planning, integer programming, linear programming, simulation.\n\nData Engineering (ETL):\n\nDefinition - ETL (Extract, Transform, Load): The process of pulling data from different disparate systems (e.g., text files from logistics and strange databases from sales), matching it, and storing it in a centralized, usable format.\nTasks: Scaling systems so they don’t crash when 100 users hit them instead of 5, pushing AI models into live production apps.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#qa-business-analyst-vs.-business-development",
+    "href": "assignments/assignment-1.html#qa-business-analyst-vs.-business-development",
+    "title": "Assignment 1",
+    "section": "Q&A: Business Analyst vs. Business Development",
+    "text": "Q&A: Business Analyst vs. Business Development\n\nDefinition - Business Analyst: A role focused on understanding user processes.\nExample (Funnel Analysis): Looking at data to see that 1,000 people enter a website, 300 put items in a cart, but only 75 buy. The analyst identifies the bottleneck (e.g., bad UI, high prices) and proposes solutions.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#rapid-scale-and-data-reliance",
+    "href": "assignments/assignment-1.html#rapid-scale-and-data-reliance",
+    "title": "Assignment 1",
+    "section": "Rapid Scale and Data Reliance",
+    "text": "Rapid Scale and Data Reliance\n\nCarvana grew from selling 6,500 cars in 2015 to nearly 300,000 cars by the early 2020s. This rapid growth required heavy quantitative approaches.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#data-teams-and-their-functions",
+    "href": "assignments/assignment-1.html#data-teams-and-their-functions",
+    "title": "Assignment 1",
+    "section": "Data Teams and Their Functions",
+    "text": "Data Teams and Their Functions\n\nPredictive Modeling: Built credit scoring algorithms to decide who gets a loan and at what interest rate. Used logistic regression and fraud detection.\nNetlift Modeling: Deciding whether to call a potential customer based on the probability that the call will convert them versus the cost of making the call.\nProduct Analytics (Funnel Analysis): Tracking the customer journey to improve the website.\nDelivery Time Conversion Analysis: Discovered that showing a “2-day delivery” versus “5-day delivery” massively increased car sales. They modeled whether investing in faster logistics was worth the extra profit.\nCommunication Technologies: Using Natural Language Processing (NLP) to route customer service calls properly.\nDecision Support Logistics (Vardar’s Team): “Last Mile Scheduling”—optimizing which truck carries which car to which customer to maximize speed and efficiency.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#must-have-technical-skills",
+    "href": "assignments/assignment-1.html#must-have-technical-skills",
+    "title": "Assignment 1",
+    "section": "Must-Have Technical Skills",
+    "text": "Must-Have Technical Skills\n\nSQL (Structured Query Language): Vardar emphasizes SQL heavily. He hasn’t stopped using it in 20 years.\nDefinition - Pareto Principle (80/20 Rule): 20% of your effort yields 80% of the results. Knowing SQL provides 80% of the value in data analysis.\nVisualization Tools: Tableau (very common).\nBig Data Tools: Spark SQL (for massive datasets).\nBasic Tools: Excel (Pivot tables, VLOOKUP) is used universally. Python/Pandas is also highly recommended.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#qa-dealing-with-siloed-data",
+    "href": "assignments/assignment-1.html#qa-dealing-with-siloed-data",
+    "title": "Assignment 1",
+    "section": "Q&A: Dealing with “Siloed” Data",
+    "text": "Q&A: Dealing with “Siloed” Data\n\nDefinition - Silos: When different departments in a company operate independently and do not share data.\nSolution: Companies build Data Warehousing teams (Data Engineers) to merge this data and prove to management that unified data increases profits.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#soft-skills-mindset",
+    "href": "assignments/assignment-1.html#soft-skills-mindset",
+    "title": "Assignment 1",
+    "section": "Soft Skills & Mindset",
+    "text": "Soft Skills & Mindset\n\nAnalytical Thinking: Basic math, probability, statistics.\nGraph Literacy: Understanding axes, scales, and trends to extract truth.\nProblem Decomposition: Breaking large problems into manageable pieces.\nCuriosity: Treating data analysis like a puzzle.\nCommunication: Public speaking and English proficiency are critical to advancing.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#focus-on-problems-not-tools",
+    "href": "assignments/assignment-1.html#focus-on-problems-not-tools",
+    "title": "Assignment 1",
+    "section": "Focus on Problems, Not Tools",
+    "text": "Focus on Problems, Not Tools\n\nVisual Reference Described: Vardar references a slide showing a “Data and Analytics Landscape” map containing hundreds of logos for different coding languages and tools. He warns it is impossible to learn them all. Tools change every year, but problem-solving skills never expire.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#mental-models",
+    "href": "assignments/assignment-1.html#mental-models",
+    "title": "Assignment 1",
+    "section": "Mental Models",
+    "text": "Mental Models\n\nDefinition - Mental Models: Frameworks for thinking.\nExamples: * Inversion: Instead of asking “How do I get rich?”, ask “How do I ensure I stay poor?” and avoid those things.\n\nGame Theory: Understanding “Win-Win” or the “Prisoner’s Dilemma” helps navigate corporate and business motivations.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#extra-resources-mentioned",
+    "href": "assignments/assignment-1.html#extra-resources-mentioned",
+    "title": "Assignment 1",
+    "section": "Extra Resources Mentioned",
+    "text": "Extra Resources Mentioned\n\nPodcast: “How to Get Rich (Without Getting Lucky)” by Naval Ravikant.\nBook: Fooled by Randomness by Nassim Nicholas Taleb.\nBook: The Goal by Eliyahu M. Goldratt.\nBook: Atomic Habits by James Clear.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#are-mastersphds-necessary",
+    "href": "assignments/assignment-1.html#are-mastersphds-necessary",
+    "title": "Assignment 1",
+    "section": "Are Masters/PhDs Necessary?",
+    "text": "Are Masters/PhDs Necessary?\n\nVardar’s controversial take: Degrees are becoming less necessary for general technical roles because knowledge is highly accessible online. A strong GitHub portfolio is often more valuable. (Exceptions: deep, cutting-edge AI).",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#hindsight-and-past-regrets",
+    "href": "assignments/assignment-1.html#hindsight-and-past-regrets",
+    "title": "Assignment 1",
+    "section": "Hindsight and Past Regrets",
+    "text": "Hindsight and Past Regrets\n\nVardar mentions his best unintentional career move was doing a double major in IE and Information Systems. Combining domain knowledge (IE) with technical software skills made him stand out.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#will-ai-replace-jobs",
+    "href": "assignments/assignment-1.html#will-ai-replace-jobs",
+    "title": "Assignment 1",
+    "section": "Will AI Replace Jobs?",
+    "text": "Will AI Replace Jobs?\n\nVardar is optimistic. AI will automate physical and routine digital tasks, but it cannot define business problems or navigate social corporate structures.\nAnalogy: AI is like the invention of the tractor. It replaces 30 manual laborers in a field, but you still need someone to drive the tractor.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#how-to-handle-small-data",
+    "href": "assignments/assignment-1.html#how-to-handle-small-data",
+    "title": "Assignment 1",
+    "section": "How to Handle “Small Data”",
+    "text": "How to Handle “Small Data”\n\nDon’t force big-data tools (like neural nets or complex regressions) onto small datasets. Use qualitative reasoning, logic, medians, and accept wider confidence intervals.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#choosing-between-or-and-statistics",
+    "href": "assignments/assignment-1.html#choosing-between-or-and-statistics",
+    "title": "Assignment 1",
+    "section": "Choosing Between OR and Statistics",
+    "text": "Choosing Between OR and Statistics\n\nBoth are tools. Don’t chase what is “popular.” Chase what you naturally enjoy, what puts you in a “flow state,” and what you find easier than other people do.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#b",
+    "href": "assignments/assignment-1.html#b",
+    "title": "Assignment 1",
+    "section": "(b)",
+    "text": "(b)\nlibrary(dslabs) data(“polls_us_election_2016”) my_first &lt;- “Isil” my_birth_year &lt;- 2004 k &lt;- (nchar(my_first) + my_birth_year) %% 15 + 8 print(k) if (k %% 2 == 0) { head(polls_us_election_2016, k) } else { tail(polls_us_election_2016, k) } total_na &lt;- sum(is.na(polls_us_election_2016)) print(total_na) na_per_col &lt;- sapply(polls_us_election_2016, function(x) sum(is.na(x))) sorted_na &lt;- sort(na_per_col, decreasing = TRUE) head(sorted_na, 8) new_data &lt;- polls_us_election_2016 m &lt;- length(new_data) for (i in 1:m) { col_type &lt;- class(new_data[, i]) if (col_type == “numeric” | col_type == “integer”) { new_data[, i] &lt;- ifelse(is.na(new_data[, i]), my_birth_year + k, new_data[, i]) } else if (col_type == “character” | col_type == “factor”) { new_data[, i] &lt;- as.character(new_data[, i]) new_data[, i] &lt;- ifelse(is.na(new_data[, i]), paste0(my_first, “_“, k), new_data[, i])\n}\n} if (k %% 2 == 0) { head(new_data, k) } else { tail(new_data, k) } total_na_new &lt;- sum(is.na(new_data)) print(total_na_new) print(anyNA(new_data))",
+    "crumbs": [
+      "Assignment 1"
+    ]
   }
 ]

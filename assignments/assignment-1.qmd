@@ -11,5 +11,216 @@ title: "Assignment 1"
 My first assignment has two parts.
 
 ## (a)
+## AI Usage & Methodology
+
+To generate the detailed notes and summary from the video, I used an AI assistant. Below is the exact prompt I used to guide the AI's analysis:
+
+> **Prompt Used:**
+> *"Create a set of detailed, organized notes that capture every single concept, term, example, and insight mentioned, in the exact order they appear, without omitting anything. Instructions: Watch/Read Everything Fully: Do not skip or summarize too broadly. Include all points, even if they seem minor or repetitive, unless they are literal filler or unrelated chatter. Time-Stamped Structure: Add timestamps (HH:MM:SS) before each section or key point so I can quickly revisit the exact spot in the video. Hierarchical Breakdown: Use a clear outline with headings and bullet points: H1: Major topics or sections H2: Subtopics Bullets: Key details, definitions, examples, quotes, code snippets, or formulas. Definitions & Jargon: Whenever a technical term or acronym is mentioned, explain it clearly in simple terms alongside its definition. Examples & Analogies: Record every example, analogy, or metaphor given, and note why the speaker used it. Important Quotes: If the speaker says something notable, write it verbatim inside quotes. Diagrams & Visual References: If the video shows any diagrams, slides, or visuals, describe them in text so I can recreate them later. Extra Resources Mentioned: List any books, papers, tools, or websites the speaker references. Summary Section at the End: After the detailed notes, add: A 1-paragraph high-level summary of the video, A Key Takeaways list with the top 10–15 insights, A Glossary of all technical terms from the video. Then, prepare one open-ended question and one multiple-choice question, along with their answers."*
+
+### AI Generated Output
+
+# Introduction and Speaker Background
+
+## Meet the Speaker: Cem Vardar
+* Cem Vardar is an Industrial Engineer (IE) who completed his undergraduate, master's, and PhD (at Arizona State University) in Industrial Engineering.
+* He has over 20 years of professional experience in the US, working in roles that heavily utilized IE and data analytics.
+
+**Career Timeline:**
+* **Intel (7 years):** Started as an intern, transitioned to full-time. Worked on planning systems and supply chain projects for chip manufacturing.
+* **Revionics (5 years):** A startup that built pricing software for major US supermarket chains and retail clothing stores.
+* **Carvana (6 years):** Joined when it was a startup (selling cars online) and witnessed massive growth. He took on various IE roles that heavily merged with data analytics and data science.
+
+# What is Engineering vs. Industrial Engineering?
+
+## The Definition of Engineering
+* Engineering fundamentally involves applying science and mathematics to solve problems.
+* **Analogy (The Plumber and the Carpenter):** Vardar compares engineers to plumbers or carpenters. When a pipe bursts, a plumber uses their specialized tools and apprenticeship knowledge to solve the problem. Similarly, engineers use science and math as their "tools" to solve problems (e.g., building a bridge to solve the problem of crossing two continents).
+* Even improving an existing system that isn't completely broken is a form of problem-solving.
+
+## The Scope of Industrial Engineering
+* **Tools of IE:** Operations Research (OR), simulation, quality modeling, supply chain management, and inventory models.
+* **Core Focus:** IEs focus on complex organizations or business systems rather than purely physical systems (like the gears of a machine a mechanical engineer might work on).
+* **Definition - Complex Systems:** Systems where the whole is different from the sum of its parts. E.g., A car manufacturer includes finance, design, factories, logistics, and marketing. Each sub-system interacts dynamically with the others.
+
+## Evolutionary Design in Complex Systems
+* Vardar advocates for simple solutions over complex ones, even in complex systems.
+* **Analogy (Evolution of the Brain):** Designing a system from scratch to be highly complex usually fails. Instead, systems should evolve like the human brain did—starting from a single cell and adapting to environmental pressures over billions of years.
+* **Important Quote:** *"You must start simple even when complex solutions are required... Evolutionary Design."*
+
+## Q&A: "If it works, don't touch it"
+* A student asks about the famous programming rule: "If it works, don't touch it."
+* Vardar agrees this is a good rule of thumb for complex systems because emergent behaviors are hard to predict. However, if a system is causing problems, you must intervene.
+* **Approach:** Instead of throwing away an old system entirely to build a "perfect" new one over a year, you should make humble, gradual interventions to solve specific bottlenecks.
+
+# Data Science and Industrial Engineering
+
+## Data Science as a Tool
+* Data science and analytics are simply modern "tools" (like a hammer) used to solve business problems.
+* Job titles have evolved to ask for "someone who can use a hammer" (Data Scientist) rather than "a carpenter" (Problem Solver).
+
+## Categorizing Data Science Roles
+* **Generalist Data Scientist / Data Analyst:** * Tasks: Analyzing sales trends, visualizing data, summarizing, reporting, and building dashboards.
+  * Goal: Turning vast amounts of inaccessible data into actionable information for decision-makers.
+  * **Analogy (Airplane Autopilot):** Just as a dashboard tells a pilot if the plane is drifting off course so they can correct it, business dashboards tell managers if sales or customer satisfaction are dropping so they can steer the company.
+* **Predictive Modeling / Statistician:**
+  * Tasks: Price optimization, calculating price elasticity, credit scoring.
+  * Uses: Logistic regression, Neural Nets, Support Vector Machines (SVM). Requires deep mathematical/statistical background (often Masters/PhD).
+* **Machine Learning (ML) Scientist / Engineer:**
+  * Tasks: Image processing, self-driving cars, ChatGPT, deep fakes. Highly specialized.
+* **Operations Research (OR) Data Scientist:**
+  * Tasks: Logistics planning, integer programming, linear programming, simulation.
+* **Data Engineering (ETL):**
+  * **Definition - ETL (Extract, Transform, Load):** The process of pulling data from different disparate systems (e.g., text files from logistics and strange databases from sales), matching it, and storing it in a centralized, usable format.
+  * Tasks: Scaling systems so they don't crash when 100 users hit them instead of 5, pushing AI models into live production apps.
+
+## Q&A: Business Analyst vs. Business Development
+* **Definition - Business Analyst:** A role focused on understanding user processes.
+* **Example (Funnel Analysis):** Looking at data to see that 1,000 people enter a website, 300 put items in a cart, but only 75 buy. The analyst identifies the bottleneck (e.g., bad UI, high prices) and proposes solutions.
+
+# Real-World Applications at Carvana
+
+## Rapid Scale and Data Reliance
+* Carvana grew from selling 6,500 cars in 2015 to nearly 300,000 cars by the early 2020s. This rapid growth required heavy quantitative approaches.
+
+## Data Teams and Their Functions
+* **Predictive Modeling:** Built credit scoring algorithms to decide who gets a loan and at what interest rate. Used logistic regression and fraud detection.
+* **Netlift Modeling:** Deciding whether to call a potential customer based on the probability that the call will convert them versus the cost of making the call.
+* **Product Analytics (Funnel Analysis):** Tracking the customer journey to improve the website.
+* **Delivery Time Conversion Analysis:** Discovered that showing a "2-day delivery" versus "5-day delivery" massively increased car sales. They modeled whether investing in faster logistics was worth the extra profit.
+* **Communication Technologies:** Using Natural Language Processing (NLP) to route customer service calls properly.
+* **Decision Support Logistics (Vardar's Team):** "Last Mile Scheduling"—optimizing which truck carries which car to which customer to maximize speed and efficiency.
+
+# Essential Skills for the Future
+
+## Must-Have Technical Skills
+* **SQL (Structured Query Language):** Vardar emphasizes SQL heavily. He hasn't stopped using it in 20 years.
+* **Definition - Pareto Principle (80/20 Rule):** 20% of your effort yields 80% of the results. Knowing SQL provides 80% of the value in data analysis.
+* **Visualization Tools:** Tableau (very common).
+* **Big Data Tools:** Spark SQL (for massive datasets).
+* **Basic Tools:** Excel (Pivot tables, VLOOKUP) is used universally. Python/Pandas is also highly recommended.
+
+## Q&A: Dealing with "Siloed" Data
+* **Definition - Silos:** When different departments in a company operate independently and do not share data.
+* **Solution:** Companies build Data Warehousing teams (Data Engineers) to merge this data and prove to management that unified data increases profits.
+
+## Soft Skills & Mindset
+* **Analytical Thinking:** Basic math, probability, statistics.
+* **Graph Literacy:** Understanding axes, scales, and trends to extract truth.
+* **Problem Decomposition:** Breaking large problems into manageable pieces.
+* **Curiosity:** Treating data analysis like a puzzle.
+* **Communication:** Public speaking and English proficiency are critical to advancing. 
+
+# Career Advice & Final Thoughts
+
+## Focus on Problems, Not Tools
+* **Visual Reference Described:** Vardar references a slide showing a "Data and Analytics Landscape" map containing hundreds of logos for different coding languages and tools. He warns it is impossible to learn them all. Tools change every year, but problem-solving skills never expire.
+
+## Mental Models
+* **Definition - Mental Models:** Frameworks for thinking.
+* **Examples:** * *Inversion:* Instead of asking "How do I get rich?", ask "How do I ensure I stay poor?" and avoid those things.
+  * *Game Theory:* Understanding "Win-Win" or the "Prisoner's Dilemma" helps navigate corporate and business motivations.
+
+## Extra Resources Mentioned
+* **Podcast:** "How to Get Rich (Without Getting Lucky)" by Naval Ravikant.
+* **Book:** *Fooled by Randomness* by Nassim Nicholas Taleb.
+* **Book:** *The Goal* by Eliyahu M. Goldratt.
+* **Book:** *Atomic Habits* by James Clear.
+
+# Final Q&A Session
+
+## Are Masters/PhDs Necessary?
+* Vardar's controversial take: Degrees are becoming less necessary for general technical roles because knowledge is highly accessible online. A strong GitHub portfolio is often more valuable. (Exceptions: deep, cutting-edge AI).
+
+## Hindsight and Past Regrets
+* Vardar mentions his best unintentional career move was doing a double major in IE and Information Systems. Combining domain knowledge (IE) with technical software skills made him stand out.
+
+## Will AI Replace Jobs?
+* Vardar is optimistic. AI will automate physical and routine digital tasks, but it cannot define business problems or navigate social corporate structures. 
+* **Analogy:** AI is like the invention of the tractor. It replaces 30 manual laborers in a field, but you still need someone to drive the tractor.
+
+## How to Handle "Small Data"
+* Don't force big-data tools (like neural nets or complex regressions) onto small datasets. Use qualitative reasoning, logic, medians, and accept wider confidence intervals.
+
+## Choosing Between OR and Statistics
+* Both are tools. Don't chase what is "popular." Chase what you naturally enjoy, what puts you in a "flow state," and what you find easier than other people do.
+
+---
+
+# Summary Section
+
+**High-Level Summary:**
+In this presentation, Dr. Cem Vardar shares his extensive experience transitioning from traditional Industrial Engineering into the fast-paced world of Data Science and Analytics, heavily citing his time at Carvana. He demystifies the buzzwords surrounding data science, framing it simply as a modern toolkit for solving complex business problems. By emphasizing the importance of foundational skills like SQL, problem decomposition, and communication over chasing the latest trendy algorithms, Vardar provides a pragmatic roadmap for young engineers. He ultimately argues that while tools and AI will constantly evolve, the human ability to identify inefficiencies, think in systems, and apply logic will remain invaluable.
+
+**Key Takeaways:**
+1. Engineering is fundamentally about using science and math as tools to solve problems.
+2. Industrial Engineering specifically focuses on complex, emergent systems rather than purely physical ones.
+3. Prioritize "Evolutionary Design" (starting simple and iterating) over building massive, complex solutions from scratch.
+4. Data science is not an end in itself; it is a tool (like a hammer) used to solve business problems.
+5. SQL is the most resilient and valuable technical skill to learn.
+6. "Silos" in companies prevent data sharing; Data Engineering/Warehousing teams are built to break these down.
+7. Soft skills (communication, reading graphs, English, curiosity) are just as critical as coding.
+8. Do not try to learn every new software tool; focus on the foundational logic of problem-solving.
+9. Using mental models (like Inversion or Game Theory) makes analyzing business problems easier.
+10. Formal Masters/PhDs are becoming less mandatory for general tech roles compared to a strong project portfolio.
+11. AI is a tool (like a tractor) that will replace manual/routine work, but not the human ability to define and strategize around problems.
+12. If you have "small data," do not force complex algorithms on it; rely on qualitative logic and basic statistics.
+
+**Glossary of Technical Terms:**
+* **Complex Systems:** Systems composed of many interacting parts where the overall behavior emerges from these interactions.
+* **Evolutionary Design:** A development approach where simple systems are built first and gradually improved over time.
+* **ETL (Extract, Transform, Load):** A data engineering process that pulls data from various sources, converts it, and loads it into a centralized database.
+* **Data Silo:** A situation where a department's data is isolated and not accessible to the rest of the organization.
+* **Data Warehousing:** The process of constructing and using a centralized repository of integrated data.
+* **Funnel Analysis:** A method of tracking user progression through a multi-step process to identify where users drop off.
+* **Pareto Principle (80/20 Rule):** The concept that roughly 80% of consequences come from 20% of the causes.
+* **Mental Models:** Frameworks or concepts used to help understand how the world works.
+* **SQL:** A standard programming language used to manage and manipulate relational databases.
+* **Confidence Interval:** A statistical range of values that describes the uncertainty surrounding an estimate.
+
+# Questions & Answers
+
+**Open-Ended Question:**
+* **Question:** Based on Cem Vardar’s philosophy on system intervention and "Evolutionary Design," how should an engineer approach fixing a highly complex, outdated logistics system that is currently causing minor delays but is still functional?
+* **Answer:** According to Vardar, the engineer should avoid the temptation to completely discard the old system and spend a year building a "perfect," complex replacement from scratch. Instead, they should adopt an evolutionary approach and act with humility. They should carefully analyze the specific bottlenecks causing the minor delays, break the problem into manageable pieces, and implement small, gradual improvements. This prevents the unforeseen catastrophic failures that often happen when replacing complex emergent systems all at once.
+
 
 ## (b)
+```{r}
+library(dslabs)
+data("polls_us_election_2016")
+my_first <- "Isil" 
+my_birth_year <- 2004
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+print(k)
+if (k %% 2 == 0) {
+  head(polls_us_election_2016, k)
+} else {
+  tail(polls_us_election_2016, k)
+}
+total_na <- sum(is.na(polls_us_election_2016))
+print(total_na)
+na_per_col <- sapply(polls_us_election_2016, function(x) sum(is.na(x)))
+sorted_na <- sort(na_per_col, decreasing = TRUE)
+head(sorted_na, 8)
+new_data <- polls_us_election_2016
+m <- length(new_data) 
+for (i in 1:m) {
+  col_type <- class(new_data[, i])
+  if (col_type == "numeric" | col_type == "integer") {
+    new_data[, i] <- ifelse(is.na(new_data[, i]), my_birth_year + k, new_data[, i])
+  } else if (col_type == "character" | col_type == "factor") {
+    new_data[, i] <- as.character(new_data[, i])
+    new_data[, i] <- ifelse(is.na(new_data[, i]), paste0(my_first, "_", k), new_data[, i])
+    
+  }
+  
+}
+if (k %% 2 == 0) {
+  head(new_data, k)
+} else {
+  tail(new_data, k)
+}
+total_na_new <- sum(is.na(new_data))
+print(total_na_new)
+print(anyNA(new_data))
