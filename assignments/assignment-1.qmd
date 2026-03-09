@@ -193,16 +193,18 @@ my_first <- "Isil"
 my_birth_year <- 2004
 k <- (nchar(my_first) + my_birth_year) %% 15 + 8
 print(k)
+
 if (k %% 2 == 0) {
-  head(polls_us_election_2016, k)
+  print(head(data, k))
 } else {
-  tail(polls_us_election_2016, k)
+  print(tail(data, k))
 }
+
 total_na <- sum(is.na(polls_us_election_2016))
 print(total_na)
 na_per_col <- sapply(polls_us_election_2016, function(x) sum(is.na(x)))
 sorted_na <- sort(na_per_col, decreasing = TRUE)
-head(sorted_na, 8)
+print(head(sorted_na, 8))
 new_data <- polls_us_election_2016
 m <- length(new_data) 
 for (i in 1:m) {
@@ -224,3 +226,4 @@ if (k %% 2 == 0) {
 total_na_new <- sum(is.na(new_data))
 print(total_na_new)
 print(anyNA(new_data))
+```
