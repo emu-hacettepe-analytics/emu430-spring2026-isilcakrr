@@ -3,10 +3,14 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is xxx xxxx.
+Ahoj! My name is Işıl Çakır.
 
 This is my personal webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
 
-This is our template.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isil-cakir/)!
+
+Dekujeme!
+
+![Hacettepe Analytics Lab](indir (1).jpg)

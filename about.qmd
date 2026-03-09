@@ -2,6 +2,7 @@
 title: "About Me"
 sidebar: false 
 ---
+Ahoj! This is how you say "Hello!" in Czech! I'm Işıl. I am an avid Senior student pursuing a Bachelor's degree in Industrial Engineering at Hacettepe University. 
 
 # Education
 
