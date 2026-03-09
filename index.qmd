@@ -13,4 +13,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isil-caki
 
 Dekujeme!
 
-![Hacettepe Analytics Lab](indir (1).jpg)
+![Hacettepe Analytics Lab](indir (1).jpg){width=20%}
