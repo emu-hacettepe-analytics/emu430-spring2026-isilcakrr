@@ -40,3 +40,5 @@ R, Quarto, Git, Python, LaTeX, MS Office, AutoCAD, Adobe Photoshop, Minitab, SQL
 # Hobbies
 
 Painting, Swimming, Gaming, Chess, Baking.
+
+[📥 Download My CV (PDF)](isilcakircv.pdf)
