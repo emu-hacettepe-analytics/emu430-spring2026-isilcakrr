@@ -7,3 +7,11 @@ On this page, I showcase the assignment I conducted for the \[term and year, e.g
 Please use the left menu to navigate through my assignments.
 
 The most recent update to this page was made on 10/03/2026.
+
+::: {layout-ncol="3"}
+\![Arveles Hayat Kurtarır\](arveles.jpg)
+
+\![Academic Girl Era\](sedasayan.jpg)
+
+\![Bazen de Kararlı\](mehmetchef.jpg)
+:::
