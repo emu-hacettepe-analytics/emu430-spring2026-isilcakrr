@@ -236,4 +236,5 @@ cat("\nYeni veri setindeki toplam NA Sayısı:", total_na_new, "\n")
 cat("\nanyNA(new_data) sonucu:\n")
 print(anyNA(new_data))
 ```
+
 ![Sorun yok sıkıntı yok devam](anladim.jpg){width=20%}

@@ -8,10 +8,10 @@ Please use the left menu to navigate through my assignments.
 
 The most recent update to this page was made on 10/03/2026.
 
-::: {layout-ncol="3"}
-\![Arveles Hayat Kurtarır\](arveles.jpg)
+::: {layout-ncol=3}
+![](arveles.jpg){height=250px}
 
-\![Academic Girl Era\](sedasayan.jpg)
+![](sedasayan.jpg){height=250px}
 
-\![Bazen de Kararlı\](mehmetchef.jpg)
+![](mehmetchef.jpg){height=250px}
 :::
