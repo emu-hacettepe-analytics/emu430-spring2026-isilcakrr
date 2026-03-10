@@ -8,10 +8,8 @@ Please use the left menu to navigate through my assignments.
 
 The most recent update to this page was made on 10/03/2026.
 
-::: {layout-ncol=3}
-![](arveles.jpg){height=250px}
-
-![](sedasayan.jpg){height=250px}
-
-![](mehmetchef.jpg){height=250px}
-:::
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="arveles.jpg" style="height: 250px; width: auto;">
+  <img src="sedasayan.jpg" style="height: 250px; width: auto;">
+  <img src="mehmetchef.jpg" style="height: 250px; width: auto;">
+</div>
